@@ -12,7 +12,6 @@
 <h3 align="center">
     Product Owner and Software Engineer
 </h3>
-<br>
 
 
 ## ⚡️ Stacks
