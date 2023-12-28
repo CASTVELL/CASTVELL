@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=Castvell&label=Profile%20Views&color=brightgreen&flat"  /> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=Castvell&label=Profile%20Views&color=brightgreen&flat" alt=""/> 
 </div>
 <br>
 
@@ -22,7 +22,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/Castvell">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castvell&count_private=true&layout=compact&theme=dark" alt="Miguel Stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castvell&count_private=true&layout=compact&theme=dark" alt="Miguel's Tech Stack">
         </a>
       </td>
       <td align="center">
@@ -54,5 +54,3 @@
 [<img align="left" alt="linkedin" src= "https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [linkedin]:https://www.linkedin.com/in/miguelcastellanoss/
-
-<br>
