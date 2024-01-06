@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   <img align="center" src="https://komarev.com/ghpvc/?username=Castvell&label=Profile%20Views&color=brightgreen&flat" alt=""/> 
 </div>
 <br>
@@ -14,7 +14,15 @@
 </h3>
 
 
+
 ## ⚡️ Stacks
+
+<br>
+<div align="center">
+  <a href="https://github.com/CASTVELL">
+    <img src="https://skillicons.dev/icons?i=python,c,js,cpp,java,react,flask,postgresql,nodejs,express,vscode,docker,linux,git,github&perline=5&theme=light"> 
+  </a>
+</div>
 
 <br>
 <div align="center">
@@ -35,12 +43,6 @@
 </div>
 <br>
 
-<div align="center">
-  <a href="https://github.com/CASTVELL">
-    <img src="https://skillicons.dev/icons?i=python,c,js,cpp,java,react,flask,postgresql,nodejs,express,vscode,docker,linux,git,github&perline=5&theme=light"> 
-  </a>
-</div>
-<br>
 
 
 ## 💻 Contact
