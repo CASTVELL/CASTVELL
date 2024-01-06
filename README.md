@@ -36,31 +36,9 @@
 <br>
 
 <div align="center">
-  
-  <img align="center" alt="Python"  width="54px" height="54px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  
-  <img align="center" alt="NodeJS" width="40px" height="40px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-  <img align="center" alt="Docker"  width="48px" height="48px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-  
-  <img align="center" alt="HTML" width="50px" height="50px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  
-  <img align="center" alt="CSS" width="50px" height="50px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    
-  <img align="center" alt="Javascript" width="50px" height="50px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-  <img align="center" alt="React" width="50px" height="50px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-  <img align="center" alt="SQL" width="50px" height="50px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-  
-  <img align="center" alt="PostgreSQL" width="50px" height="50px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-
-  <img align="center" alt="Java" width="50px" height="50px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-  
-  <img align="center" alt="npm" width="50px" height="50px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-  
-   <img align="center" alt="Express" width="50px" height="50px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-   
+  <a href="https://github.com/CASTVELL">
+    <img src="https://skillicons.dev/icons?i=python,c,js,cpp,java,react,flask,postgresql,nodejs,express,vscode,docker,linux,git,github&perline=5&theme=light"> 
+  </a>
 </div>
 <br>
 
