@@ -20,7 +20,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/CASTVELL">
-    <img src="https://skillicons.dev/icons?i=python,c,js,cpp,java,react,flask,postgresql,nodejs,express,vscode,docker,linux,git,github&perline=5&theme=light"> 
+    <img src="https://skillicons.dev/icons?i=python,c,js,cpp,java,react,flask,postgresql,nodejs,express,vscode,docker,linux,git,github&perline=5"> 
   </a>
 </div>
 
