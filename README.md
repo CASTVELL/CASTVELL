@@ -23,23 +23,16 @@
     <img src="https://skillicons.dev/icons?i=python,c,js,cpp,java,react,flask,postgresql,nodejs,express,vscode,docker,linux,git,github&perline=5"> 
   </a>
 </div>
-
 <br>
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Castvell">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castvell&count_private=true&layout=compact&theme=dark" alt="Miguel's Tech Stack">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Castvell">
-          <img src="https://github-readme-stats.vercel.app/api?username=Castvell&count_private=true&hide=contribs,prs&show_icons=true&theme=dark" alt="Miguel's Github Stats">
-        </a>
-      </td>
-    </tr>
-  </table>
+
+
+<div href="https://github.com/Castvell" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castvell&count_private=true&layout=compact&theme=dark" alt="Miguel's Tech Stack">
+</div>
+<br>
+  
+<div href="https://github.com/Castvell" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Castvell&count_private=true&hide=contribs,prs&show_icons=true&theme=dark" alt="Miguel's Github Stats">
 </div>
 <br>
 
