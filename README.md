@@ -33,7 +33,7 @@
 <br>
   
 <div href="https://github.com/Castvell" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Castvell&count_private=true&hide=stars&show_icons=true&theme=dark" alt="Miguel's Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Castvell&rank_icon=github&count_private=true&hide=stars&show_icons=true&theme=dark" alt="Miguel's Github Stats">
 </div>
 <br>
 
