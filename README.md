@@ -26,13 +26,14 @@
 <br>
 
 
+
 <div href="https://github.com/Castvell" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castvell&count_private=true&layout=compact&theme=dark" alt="Miguel's Tech Stack">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castvell&langs_count=8&hide=css,hack,html&count_private=true&layout=compact&theme=dark" alt="Miguel's Tech Stack">
 </div>
 <br>
   
 <div href="https://github.com/Castvell" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Castvell&count_private=true&hide=contribs,prs&show_icons=true&theme=dark" alt="Miguel's Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Castvell&count_private=true&hide=stars&show_icons=true&theme=dark" alt="Miguel's Github Stats">
 </div>
 <br>
 
