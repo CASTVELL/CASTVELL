@@ -22,7 +22,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/CASTVELL">
-    <img src="https://skillicons.dev/icons?i=python,c,js,cpp,java,react,flask,postgresql,nodejs,express,aws,docker,linux,git,github&perline=5"> 
+    <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,react,flask,postgresql,nodejs,express,python,c,js,cpp,java,&perline=5"> 
   </a>
 </div>
 <br>
