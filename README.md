@@ -7,7 +7,7 @@
 
     
 <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&duration=3500&pause=200&color=00FF00&background=000000&center=true&vCenter=true&random=false&width=780&height=100&lines=>+HEY!+What's+Good%3F+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;>+I'm+Miguel+%F0%9F%AB%A1;>+I'm+Product+Manager+%F0%9F%96%87%EF%B8%8F;>+I'm+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;>+I'm+a+Nerd+%F0%9F%9A%80;>+I'm+a+Entrepreneur+%F0%9F%9A%80" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&duration=3500&pause=200&color=00FF00&background=000000&center=true&vCenter=true&random=false&width=780&height=100&lines=>+HEY!+What's+Good%3F+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;>+I'm+Miguel+%F0%9F%AB%A1;>+I'm+Product+Manager+%F0%9F%96%87%EF%B8%8F;>+I'm+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;>+I'm+a+Nerd+🤓;>+I'm+an+Entrepreneur+👾" alt="Typing SVG" /></a>
 </div>
 
 
