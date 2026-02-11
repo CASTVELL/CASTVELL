@@ -12,7 +12,7 @@
 
 
 <h3 align="center">
-    Product Manager | Software Engineer | Nerd
+    Product Manager | Engineer | Nerd
     <br>
 </h3>
 
